@@ -1,2 +1,2 @@
-# MamaMiaPizzeria - Hito 6 "useContext"
-carrito en home y precio en navbar
+# MamaMiaPizzeria - Hito 7 (useParams / useNavigate)
+Login y rutas protegidas
